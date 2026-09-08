@@ -1,6 +1,5 @@
 osintsh:
-  - "YOUR_WHOXY_API_KEY"
-viewdns:
-  - "YOUR_VIEWDNS_API_KEY"
-whoisxmlapi:
-  - "YOUR_WHOISXMLAPI_KEY"
+  api_key: "YOUR_OSINTSH_API_KEY"
+
+dnslytics:
+  api_key: "YOUR_DNSLYTICS_API_KEY"
