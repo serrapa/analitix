@@ -1,0 +1,6 @@
+osintsh:
+  - "YOUR_WHOXY_API_KEY"
+viewdns:
+  - "YOUR_VIEWDNS_API_KEY"
+whoisxmlapi:
+  - "YOUR_WHOISXMLAPI_KEY"
